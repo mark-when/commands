@@ -1,0 +1,14 @@
+[
+  {
+    "name": "fillTime",
+    "author": "Markwhen",
+    "script": "https://github.com/mark-when/commands/main/fillTime/script.js",
+    "version": "1.0.0"
+  },
+  {
+    "name": "checkAll",
+    "author": "Markwhen",
+    "script": "https://github.com/mark-when/commands/main/checkAll/script.js",
+    "version": "1.0.0"
+  }
+]
