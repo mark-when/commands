@@ -3,12 +3,14 @@
     "name": "fillTime",
     "author": "Markwhen",
     "script": "https://cdn.statically.io/gh/mark-when/commands/main/fillTime/script.js",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "description": "Fills empty time between events. Each newly created event will have the `#available` tag. Only accurate to days (could use improvement...)."
   },
   {
     "name": "checkAll",
     "author": "Markwhen",
     "script": "https://cdn.statically.io/gh/mark-when/commands/main/checkAll/script.js",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "description": "Checks all checkboxes in an event. Affects the event that contains the cursor, if any."
   }
 ]
